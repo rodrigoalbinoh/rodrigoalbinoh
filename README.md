@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # Rodrigo Albino Hammes
 
-Web Developer.
+SRE | DevOps | Full Stack Developer
 
 ## 📫 How to reach me
 [![Twitter Badge](https://img.shields.io/badge/-@rodrigoalbinoh-02aaff?style=flat-square&labelColor=02aaff&logo=twitter&logoColor=white&link=https://twitter.com/rodrigoalbinoh)](https://twitter.com/rodrigoalbinoh) 
